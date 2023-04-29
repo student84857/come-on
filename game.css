@@ -1,0 +1,63 @@
+body
+{
+	background-image: url("th\ \(1\).jpeg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: rgb(213, 98, 9);
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: rgb(249, 37, 0);
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #350940;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1{
+	color: rgb(255, 255, 255);
+	font-family: 'Akaya Kanadaka', cursive;
+}
+h3{
+	font-family: 'Lora', serif;
+	color: rgb(194, 241, 9);
+}
+label{
+	font-family: 'Yellowtail', cursive;
+	color: rgb(174, 0, 255);
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input:hover{
+	background-color: rgb(255, 255, 243);
+}
+div:hover{
+	border: 5px solid rgb(20, 220, 30);
+	width: 35%;
+}
